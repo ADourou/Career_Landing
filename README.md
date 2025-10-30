@@ -10,7 +10,7 @@ The platform is designed to help emerging talent find internships, entry-level j
 
 This repository contains the visual design assets and high-fidelity mockups for the Career Landing project. All designs were created in **Figma**.
 
-*(This repo does not contain source code, only the design files and exported images.)*
+*(This repo does not contain source code, only the exported images.)*
 
 ## Key Features (Visualized)
 
@@ -27,10 +27,7 @@ The designs in this repository showcase the following core features:
 Here are some of the key screens from the project.
 
 ### Main Screen / Home Feed
-![Home Feed](/designs/02_homepage .png)
-
-### Job Search & Results
-![Job Search](/designs/03_internship lists_after filter.png)
+![Home Feed](/designs/02_homepage.png)
 
 ### Student Profile
 ![Student Profile](/designs/09_user_profile.png)
